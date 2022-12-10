@@ -1,0 +1,6 @@
+The core of the project was created by James Doyle in a tutorial found on Udemy: https://www.udemy.com/course/unity2drpg/
+It took some time to get used to using Unity again and some things took me far too long to figure out how to change. I changed some text and music and did some minor rebalancing (and nearly broke a few things). 
+
+Theme on the start screen : RPG Theme_v001 by Eric Matyas Soundimage.org.mp3
+
+All other assets belong to their respective owners and creators.
